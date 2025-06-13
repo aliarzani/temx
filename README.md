@@ -1,6 +1,5 @@
 # OpenDAX BaseApp UI
-#t
-# FREE Open-Source UI for Trading and Wallets Management
+## FREE Open-Source UI for Trading and Wallets Management
 
 Base React application to build a trading platform interface for use with OpenDAX: https://github.com/openware/opendax
 Why React? Well - it's fresh, fast, flexible, and you can do a lot of UI magic with it without reloading the pages.
@@ -97,8 +96,3 @@ If you have designed something beautiful with it, we would love to see it!
 
 And if you have any comments, feedback and suggestions - we are happy to hear from you here at GitHub or at https://openware.com
 
-Testing workflow trigger
-Updated on Thu Jun 12 23:03:17 UTC 2025
-Updated on1 Thu Jun 12 23:07:33 UTC 2025
-Updated on2 Thu Jun 12 23:15:20 UTC 2025
-test
